@@ -1,13 +1,9 @@
 ---
 title: "Insectos Barrenadores en aguacate"
 author: "Juan José Hernández Viveros"
-date: "07-03-2025"
+date: "03-07-2025"
 categories: [news]
-
-**Barrenadores en aguacate
 ---
-
-**Barrenadores en aguacate**
 
 ![](images/foto de aguacate 1.jpg)
 
