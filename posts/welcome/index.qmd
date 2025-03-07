@@ -1,14 +1,14 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
-date: "2025-03-04"
+title: "Insectos Barrenadores en aguacate"
+author: "Juan José Hernández Viveros"
+date: "07-03-2025"
 categories: [news]
 
 **Barrenadores en aguacate
 ---
 
-Aquí rifo yo.
+**Barrenadores en aguacate**
 
-![](thumbnail.jpg)
+![](images/foto de aguacate 1.jpg)
 
 Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
