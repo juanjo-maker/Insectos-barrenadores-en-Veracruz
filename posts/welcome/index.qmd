@@ -4,7 +4,7 @@ author: "Tristan O'Malley"
 date: "2025-03-04"
 categories: [news]
 
-"Barrenadores en aguacate"
+**Barrenadores en aguacate
 ---
 
 Aquí rifo yo.
