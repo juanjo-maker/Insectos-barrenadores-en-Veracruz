@@ -1,10 +1,38 @@
 ---
-title: "Barrenadores en aguacate"
+title: "¡Barrenadores a la carga!: Los come-huesos del aguacate"
 author: "Juan José Hernández Viveros"
-date: "07-03-2025"
-categories: [news]
 ---
 
-![](images/foto de aguacate 1.jpg)
+![](images/clipboard-1429506829.png){width="65" height="1"}
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+En México existe registro de cinco especies en cuarentena conocidas como barrenadores; estas plagas  afectan la producción de Veracruz hasta en un 90% cuando  ya que causan daños en  tallos, ramas y semillas de los frutos; por lo tanto, afectan la economía de los productores ya que  limitan la comercialización  de las cosechas en el mercado nacional e internacional, por estar regulados en las disposiciones legales contenidas en la ley federal de sanidad vegetal dentro de la nom-066-fito-1995, la cual  establece las especificaciones y requisitos fitosanitarios para el manejo, control y erradicación, para la posterior obtención de la cartilla fitosanitaria que permita la movilización de los frutos, bajo los lineamientos de la campaña nacional de plagas reglamentadas del aguacatero.
+
+El principal productor de aguacate en México es el estado de Michoacán, seguido por Jalisco y en tercer lugar se encuentra el Estado de México; Veracruz se posiciona en séptimo lugar con un incremento anual en el establecimiento de plantaciones comerciales y de traspatio.
+
+Actualmente en Veracruz se tiene registro de la presencia de *Stenoma* catenifer en la zona montañosa central, *Heilipus* lauri en los municipios de Zongolica y Huatusco y *Conotrachelus* perseae y *C.* aguacatae en los municipios de Ayahualulco, Zongolica y Xalapa; desafortunadamente en el estado  no existe una campaña vigente que involucre instituciones de gobierno, agricultores y expertos en sanidad vegetal que aporten conocimiento técnico para el reconocimiento de las especies presentes y su distribución.
+
+**¿Qué es un insecto barrenador?**
+
+![](images/Barrenador%20de%20tronco.jpg)
+
+![](images/clipboard-3261934532.png)
+
+![](images/clipboard-3322227189.png)
+
+![](images/clipboard-2743884565.png)
+
+![](images/clipboard-1960830273.png)
+
+![](images/Heilipus%20lauri%20adulto.jpeg)
+
+![](images/larva%20de%20copturus%20aguacate%20en%20rama.jpeg)
+
+![](images/Conotrachelus%20aguacatae.jpg)
+
+[Link](https://www.researchgate.net/publication/389787450_PRESENCIA_DE_ESCARABAJOS_BARRENADORES_COLEOPTERA_CURCULIONIDAE_EN_EL_CULTIVO_DE_AGUACATE_HASS_EN_VERACRUZ￼)
+
+date: "07-03-2025" categories: \[news\]
+
+------------------------------------------------------------------------
+
+![](images/foto%20de%20aguacate%201.jpg)
